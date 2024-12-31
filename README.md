@@ -4,7 +4,7 @@ Sou um **profissional de Tecnologia da Informação** com mais de 20 anos de exp
 
 ---
 
-## 🖥️ Tecnologias e Ferramentas do Meu Dia a Dia 💻
+## 🖥️ O que torna a minha vida mais facil 💻
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
