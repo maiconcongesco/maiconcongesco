@@ -40,10 +40,10 @@ Sou um **profissional de Tecnologia da Informação** com mais de 20 anos de exp
 ## 🌟 Sobre mim
 
 🎓 **Formação Acadêmica**:
-- MBA em Gestão Estratégica de Pessoas.
-- Pós-graduação em Gestão de TI.
+- Cursando MBA em Gestão da Segurança da Informação
+- MBA em Gestão Estratégica da Tecnologia da Informação.
 - Bacharelado em Ciência da Computação.
-- Formação em Tecnologia e DevOps.
+- Superior de Tecnologia em DevOps.
 
 🏆 **Certificações**:
 - Microsoft MCSA
